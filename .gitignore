@@ -1,2 +1,6 @@
 node_modules
+<<<<<<< HEAD
 bundle.js
+=======
+dist/bundle.js
+>>>>>>> eecc3b1c5072686fd7947a08680ea5e6fcd40982
